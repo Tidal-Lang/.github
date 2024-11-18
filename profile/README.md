@@ -12,7 +12,7 @@ This repository serves as the home for all Tidal-related projects, documentation
 - [Github Repository: All Source Code with Releases.](https://github.com/Tidal-Lang/Tidal)
 - [Project Lagoon: Future Features to Add.](https://github.com/users/PranavVerma-droid/projects/7)
 - [Binary: Download the Latest Release of Tidal!](https://tidal.pranavv.site/#download-tidal)
-- [Wiki: Learn About the Features of Tidal!](https://github.com/Tidal-Lang/Tidal/wiki)
+- [Wiki: Learn About the Features of Tidal!](https://tidal.pranavv.site/wiki.html)
 
 ## ‼️ Features
 - Lightweight Syntax
