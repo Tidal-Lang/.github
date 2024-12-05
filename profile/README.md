@@ -8,11 +8,11 @@ This repository serves as the home for all Tidal-related projects, documentation
 [Download](https://tidal.pranavv.site/#download-tidal) the Latest Compiled Binary.
 
 ## 📁 Resources 
-- [Website: Deeper Knowledge About Tidal!](https://tidal.pranavv.site)
+- [Website: Deeper Knowledge About Tidal!](https://tidal.pranavv.co.in)
 - [Github Repository: All Source Code with Releases.](https://github.com/Tidal-Lang/Tidal)
-- [Project Lagoon: Future Features to Add.](https://github.com/users/PranavVerma-droid/projects/7)
-- [Binary: Download the Latest Release of Tidal!](https://tidal.pranavv.site/#download-tidal)
-- [Wiki: Learn About the Features of Tidal!](https://tidal.pranavv.site/wiki.html)
+- [Project Lagoon: Future Features to Add.](https://github.com/orgs/Tidal-Lang/projects/3)
+- [Binary: Download the Latest Release of Tidal!](https://tidal.pranavv.co.in/#download-tidal)
+- [Wiki: Learn About the Features of Tidal!](https://tidal.pranavv.co.in/wiki.html)
 
 ## ‼️ Features
 - Lightweight Syntax
